@@ -3,7 +3,7 @@ import pandas as pd
 from queries import load_data, get_top_rated_movies, get_movies_by_genre, get_average_rating_by_genre, get_movies_with_high_votes
 
 # Path to the CSV file
-csv_file_path = "C:/Users/Dell/movie-analytics/data/movies.csv"  # Update this path based on your file location
+csv_file_path = "data/movies.csv"  
 
 # Load data into DuckDB
 load_data(csv_file_path)
