@@ -1,4 +1,4 @@
-# movie-analytics
+# Movie Analytics using DuckDB
 
 ## About
 This is a streamlit app that demonstrates basic querying using DuckDB.
